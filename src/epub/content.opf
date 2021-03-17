@@ -41,7 +41,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Gilman explores the transformation of the women’s role in society and necessity for women to achieve economic independence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman"&gt;Charlotte Perkins Gilman&lt;/a&gt;, most famous for her short story “The Yellow Wallpaper,” wrote &lt;i&gt;Women and Economics&lt;/i&gt; in 1898, at a time when the roles of women in society were already undergoing radical change: women entering the work force in large numbers, the suffrage movement agitating for the vote and young women looking for a new definition of their place other than as wife or mother.&lt;/p&gt;
+			&lt;p&gt;The book holds the position that humans are the only species in which the female depends on the male for her survival and that this must change in order for the human race to continue to be successful. In her book Gilman argues for the evolution of marriage, family, and home life and what she calls the sexuo-economic relationship between men and women.&lt;/p&gt;
+			&lt;p&gt;In some ways the theories and attitudes of this book have not stood the test of time but in others it serves as a reminder of how little our understanding of gender roles and economic interdependence have evolved since the close of the nineteenth century. Nevertheless it was labeled hailed as the “Bible” of the women’s movement at the time and as one of the essential works of feminism as recently as 1972.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57913</dc:source>
