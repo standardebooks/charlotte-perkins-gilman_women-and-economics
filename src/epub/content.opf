@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-21T01:15:44Z</dc:date>
+		<meta property="dcterms:modified">2021-03-21T01:15:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,6 +29,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Women and Economics</dc:title>
 		<meta property="file-as" refines="#title">Women and Economics</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</dc:title>
+		<meta property="file-as" refines="#subtitle">Study of the Economic Relation Between Men and Women as a Factor in Social Evolution, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Women and Economics: A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</dc:title>
+		<meta property="file-as" refines="#fulltitle">Women and Economics: A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Women -- Social and moral questions</dc:subject>
 		<dc:subject id="subject-2">Women -- Employment</dc:subject>
 		<dc:subject id="subject-3">Women -- Economic conditions</dc:subject>
@@ -38,18 +45,19 @@
 		<meta property="term" refines="#subject-2">sh85147294</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008113651</meta>
-		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">Gilman explores the transformation of the women’s role in society and necessity for women to achieve economic independence.</dc:description>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">Gilman explores the transformation of the role of women in society and the necessity for women to achieve economic independence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman"&gt;Charlotte Perkins Gilman&lt;/a&gt;, most famous for her short story “The Yellow Wallpaper,” wrote &lt;i&gt;Women and Economics&lt;/i&gt; in 1898, at a time when the roles of women in society were already undergoing radical change: women entering the work force in large numbers, the suffrage movement agitating for the vote and young women looking for a new definition of their place other than as wife or mother.&lt;/p&gt;
-			&lt;p&gt;The book holds the position that humans are the only species in which the female depends on the male for her survival and that this must change in order for the human race to continue to be successful. In her book Gilman argues for the evolution of marriage, family, and home life and what she calls the sexuo-economic relationship between men and women.&lt;/p&gt;
-			&lt;p&gt;In some ways the theories and attitudes of this book have not stood the test of time but in others it serves as a reminder of how little our understanding of gender roles and economic interdependence have evolved since the close of the nineteenth century. Nevertheless it was labeled hailed as the “Bible” of the women’s movement at the time and as one of the essential works of feminism as recently as 1972.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman"&gt;Charlotte Perkins Gilman&lt;/a&gt;, most famous for her short story “The Yellow Wallpaper,” wrote &lt;i&gt;Women and Economics&lt;/i&gt; in 1898, at a time when the roles of women in society were already undergoing radical change: women were entering the work force in large numbers, the suffrage movement was agitating for the vote, and young women looking for a new definition of their place other than as a wife or mother.&lt;/p&gt;
+			&lt;p&gt;The book takes the position that humans are the only species in which the female depends on the male for her survival, and that this arrangement must change for the human race to continue to be successful. Gilman argues for the evolution of marriage, family, home life, and what she calls the sexuo-economic relationship between men and women.&lt;/p&gt;
+			&lt;p&gt;Although she was in demand as a lecturer and writer, &lt;i&gt;Women and Economics&lt;/i&gt; was the first book-length work to consolidate her views. As a feminist text, it’s significant not necessarily for its profundity or for its appeal for women’s rights, but rather for its application of social Darwinism, espousing the theory that the roles played by women inevitably evolve and that the gendered division of labor produces warped human beings of both sexes. Its popularity was also helped by its accessibility—as one of her critics stated, “it stirs no deep reverberations of the soul … but you can quote it, and remember its points.”&lt;/p&gt;
+			&lt;p&gt;As suffragism progressed and first wave feminism began to fade, Gilman’s ideas were somewhat forgotten. But as feminism resurged in the 1960s, her work was rediscovered and interest rebounded in this groundbreaking feminist who played an important role in shaping public opinion, disseminating radical ideas, and encouraging women (and men) to change their thinking about gender roles.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57913</dc:source>
 		<dc:source>https://archive.org/details/womeneconomicsst00gilmuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">73054</meta>
+		<meta property="se:reading-ease.flesch">46.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Women_and_Economics</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-perkins-gilman_women-and-economics</meta>
 		<dc:creator id="author">Charlotte Perkins Gilman</dc:creator>
