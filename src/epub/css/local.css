@@ -74,6 +74,10 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
+section[epub|type~="epigraph"] h2{
+	font-style: normal;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
