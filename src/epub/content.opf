@@ -37,9 +37,9 @@
 		<dc:title id="fulltitle">Women and Economics: A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</dc:title>
 		<meta property="file-as" refines="#fulltitle">Women and Economics: A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Women -- Social and moral questions</dc:subject>
-		<dc:subject id="subject-2">Women -- Employment</dc:subject>
-		<dc:subject id="subject-3">Women -- Economic conditions</dc:subject>
+		<dc:subject id="subject-1">Women--Social and moral questions</dc:subject>
+		<dc:subject id="subject-2">Women--Employment</dc:subject>
+		<dc:subject id="subject-3">Women--Economic conditions</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85147340</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
