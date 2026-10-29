@@ -65,6 +65,7 @@
 		<link href="https://github.com/standardebooks/charlotte-perkins-gilman_women-and-economics" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Charlotte Perkins Gilman</dc:creator>
 		<meta property="file-as" refines="#author">Gilman, Charlotte Perkins</meta>
+		<meta property="schema:alternateName" refines="#author">Charlotte Anna Perkins Stetson Gilman</meta>
 		<link href="https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78079511.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
